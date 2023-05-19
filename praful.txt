@@ -1,3 +1,0 @@
-This is modified file
-Adding data for revert commit
-
